@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Anurag Thakur 👋
 
-<!--
-**anuragthakur-cse/anuragthakur-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I'm a **B.Tech CSE student** interested in software development, problem solving, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Currently learning **C++ and Data Structures & Algorithms**
+* 🌱 Exploring **Git, GitHub and Software Development**
+* 🚀 Interested in building practical projects
+* 📚 Always learning and improving my technical skills
+
+### 🛠️ Skills
+
+* **Languages:** C++, Java
+* **DSA:** Searching, Sorting, Recursion, Algorithms
+* **Tools:** Git, GitHub, VS Code
+* **Other:** MS Word, MS Excel, Data Entry
+
+### 📌 Currently Learning
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Git & GitHub
+* Software Development
+
+### 🎯 My Goal
+
+To become a skilled **Software Developer** and build useful, real-world applications.
+
+---
+
+### 📫 Connect With Me
+
+[GitHub](https://github.com/anuragthakur-cse)
+
+⭐ Thanks for visiting my profile!
