@@ -5,25 +5,24 @@
 I'm a **B.Tech CSE student** interested in software development, problem solving, and learning new technologies.
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 💻 Learning **C++** — basics, loops, conditionals, print statements
+- 💻 Comfortable with **C++** basics, control flow, and OOP fundamentals
 - 🔍 Learned **Binary Search**, currently exploring more DSA
 - 🌱 Exploring Git, GitHub and Software Development
 - 📚 Always learning and improving my technical skills
 
 ## 🛠️ Skills
 
-- **Languages:** C++ (basics)
+- **Languages:** C++ (basics + OOP), C, Java (intro)
+- **OOP:** Classes, Constructors, Inheritance
 - **DSA:** Binary Search
 - **Tools:** Git, GitHub, VS Code
 - **Other:** MS Word, MS Excel, Data Entry
 
 ## 📌 Currently Learning
 
-- Loops, Conditionals & Functions in C++
 - Sorting Algorithms
 - Recursion
-- Object-Oriented Programming (OOP)
-- Git & GitHub
+- More advanced DSA (Linked List, Stack, Queue)
 
 ## 🎯 My Goal
 
@@ -31,8 +30,14 @@ To become a skilled **Software Developer** by building strong fundamentals in C+
 
 ---
 
+## 📌 Featured Repository
+
+**[C-CONCEPT](https://github.com/anuragthakur-cse/C-CONCEPT)** — C, C++, and Java learning programs organized by topic (Basics, Control Flow, OOP).
+
+---
+
 ## 📫 Connect With Me
 
 [GitHub](https://github.com/anuragthakur-cse)
 
-⭐ Thanks for visiting my profile! 
+⭐ Thanks for visiting my profile!
