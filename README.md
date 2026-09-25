@@ -38,6 +38,8 @@ To become a skilled **Software Developer** by building strong fundamentals in C+
 
 ## 📫 Connect With Me
 
-[GitHub](https://github.com/anuragthakur-cse)
+[E-Mail](thakuranurag62406@gmail.com)
+
+[linkedin](https://www.linkedin.com/in/anurag-thakur-81b7443a6/)
 
 ⭐ Thanks for visiting my profile!
